@@ -1,5 +1,5 @@
 # Base image
-FROM taojonesin/ubuntu-base:14.04
+FROM taojonesin/ubuntu-base:trusty
 MAINTAINER jhreact <jhreact@users.noreply.github.com>
 
 RUN \
